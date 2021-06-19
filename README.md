@@ -7,7 +7,7 @@
    <a href="https://www.linkedin.com/in/kevinvenancio/">
       <img alt="Kevin Venâncio" src="https://img.shields.io/badge/-Kevin Venâncio-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue" target:"_blank">
 </p>
 
 <!-- Indice-->
