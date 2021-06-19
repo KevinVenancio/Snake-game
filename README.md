@@ -7,14 +7,14 @@
    <a href="https://www.linkedin.com/in/kevinvenancio/">
       <img alt="Kevin Venâncio" src="https://img.shields.io/badge/-Kevin Venâncio-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue" target:"blank">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 <!-- Indice-->
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-Tecnologias">Tecnologias</a> • 
-  <a href="https://snake-game-bootcamp.netlify.app/">Jogue o game</a>
+  <a href="https://snake-game-bootcamp.netlify.app/" target:"_blank">Jogue o game</a>
 </p>
 
 <!--Sobre o projeto-->
