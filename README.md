@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/kevinvenancio/Snake-Game/blob/main/image/jogo.png" alt="snakeGame" />
+   <img src="https://github.com/Kevin414gamer/Snake-game/blob/main/image/jogo.png" alt="snakeGame" />
 </p>
 
 <!-- Badges -->
