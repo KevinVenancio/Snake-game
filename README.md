@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a> •
-  <a href="#-Tecnologias">Tecnologias</a> • 
+  <a href="#--Tecnologias">Tecnologias</a> • 
   <a href="https://snake-game-bootcamp.netlify.app/">Jogue o game</a>
 </p>
 
